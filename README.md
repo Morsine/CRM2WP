@@ -7,6 +7,6 @@ To be more specifc, This application is running an API server, which the CRM sof
 Synced items include: Name - Information (specific to the usecase of a company. you might want to comment it out) - Price - Stock
 # How to run
 1- Install the required dependencies
-2- Modify config file to your needs
+2- Modify config file with required connection details and authentications
 3- Run the program
-4- Set appropriate API addresses in your CRM (more information)
+4- Set appropriate API addresses in your CRM
