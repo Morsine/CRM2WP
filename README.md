@@ -10,3 +10,5 @@ Synced items include: Name - Information (specific to the usecase of a company. 
 2- Modify config file with required connection details and authentications
 3- Run the program
 4- Set appropriate API addresses in your CRM
+# Have any questions?
+Feel free to contact me
